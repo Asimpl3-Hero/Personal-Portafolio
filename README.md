@@ -31,9 +31,6 @@ No se requiere ninguna instalación para acceder al portafolio. Simplemente visi
 
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias de mejoras o deseas reportar algún problema, no dudes en [abrir un problema](#) o enviar un [pull request](#) en el repositorio de GitHub del proyecto.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 ---
 
