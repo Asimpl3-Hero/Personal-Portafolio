@@ -25,11 +25,11 @@ Este es un proyecto personal que he desarrollado para mostrar mi trabajo y habil
 
 ## Instalación
 
-No se requiere ninguna instalación para acceder al portafolio. Simplemente visita [mi sitio web](#) para verlo en acción.
+No se requiere ninguna instalación para acceder al portafolio. Simplemente visita [mi sitio web](https://main--startling-souffle-3ba4bb.netlify.app) para verlo en acción.
 
 ## Contribución
 
-¡Las contribuciones son bienvenidas! Si tienes sugerencias de mejoras o deseas reportar algún problema, no dudes en [abrir un problema](#) o enviar un [pull request](#) en el repositorio de GitHub del proyecto.
+¡Las contribuciones son bienvenidas! Si tienes sugerencias de mejoras o deseas reportar algún problema, no dudes!!!.
 
 
 ---
